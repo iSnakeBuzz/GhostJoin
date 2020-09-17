@@ -1,0 +1,6 @@
+name: GhostJoin
+version: ${project.version}
+main: com.isnakebuzz.ghostjoin.GhostJoin
+api-version: 1.16
+authors: [ iSnakeBuzz_ ]
+description: A simple Ghost Plugin
